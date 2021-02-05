@@ -3,7 +3,7 @@
 
 🔭 I'm currently building game on Flow Blockchian, it's a new blockchain built to power next-gen games, apps and the developers who build them.
 
-🌱 I’m also learning about consensus algorithm to implement PoW,PoS and more about Defi!
+🌱 I’m also learning about consensus algorithm to implement PoW, PoS and more about Defi!
 
 👨‍💻 I love Reactjs, and I'm also learning Vue!
 
