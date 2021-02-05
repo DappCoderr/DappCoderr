@@ -1,5 +1,5 @@
 ## Hi, I'm Hardik 👋🏾 😎 
-## A Blockchain Developer & Frontend Developer 💻 
+## A Blockchain & Frontend Developer 💻 
 
 🔭 I'm currently building game on Flow Blockchian, it's a new blockchain built to power next-gen games, apps and the developers who build them.
 
