@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Hardik 👋🏾 😎 
+## I'm Blockchain Developer 💻
 
-<!--
-**DappCoderr/DappCoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently building game on Flow Blockchian, an all new blockchain built to power next-gen games, apps and the developers who build them.
 
-Here are some ideas to get you started:
+🌱 I’m also learning about consensus algorithm to implement PoW,PoS and more about Defi!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I love Reactjs, and I'm also learning Vue!
+
+💪 I'm getting ready to release an app I built myself over the past year, stay tuned!
+
+📫 Want to get in touch? Shoot me an email at, add me on LinkedIn or ping me on Telegram.
+
+## Find me around the web 🌎:
+<ul>
+  <li><a href="er.hardiksharma05@gmail.com" style="text-decoration:none" target="_blank">Email ✉<a/></li>
+  <li><a href="https://www.linkedin.com/in/hardik-sharma/" style="text-decoration:none" target="_blank">LinkedIn 💼</a></li>
+  <li><a href="https://telegram.me/Oxhardik" style="text-decoration:none" target="_blank">Telegram</a></li>
+</ul>
+
