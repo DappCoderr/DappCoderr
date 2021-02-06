@@ -11,8 +11,8 @@
 
 ## I love building products and sharing knowledge. Want to get in touch 🌎:
 <ul>
-  <li><a href="mailto: er.hardiksharma05@gmail.com" style="text-decoration:none" target="_blank">Shoot me an email ✉<a/></li>
-  <li><a href="https://www.linkedin.com/in/hardik-sharma/" style="text-decoration:none" target="_blank">Add me on LinkedIn 💼</a></li>
-  <li><a href="https://telegram.me/Oxhardik" style="text-decoration:none" target="_blank">Ping me on Telegram</a></li>
+  <li><a href="mailto: er.hardiksharma05@gmail.com" style="text-decoration:none" target="_blank">Shoot me an email <img src="https://img.icons8.com/color/18/000000/gmail--v2.png"/><a/></li>
+  <li><a href="https://www.linkedin.com/in/hardik-sharma/" style="text-decoration:none" target="_blank">Add me on LinkedIn <img src="https://img.icons8.com/color/18/000000/linkedin.png"/></a></li>
+  <li><a href="https://telegram.me/Oxhardik" style="text-decoration:none" target="_blank">Ping me on Telegram <img src="https://img.icons8.com/fluent/18/000000/telegram-app.png"/></a></li>
 </ul>
 
