@@ -7,7 +7,7 @@
 
 👨‍💻 I love Reactjs, and I'm also learning Vue!
 
-💪 I'm getting ready to release an app I built myself over the past year, stay tuned!
+💪 I'm getting ready to release an dapp, stay tuned!
 
 ## I love building products and sharing knowledge. Want to get in touch 🌎:
 <ul>
