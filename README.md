@@ -9,7 +9,7 @@
 
 💪 I'm getting ready to release an dapp, stay tuned!
 
-## I love building products and sharing knowledge. Want to get in touh 🌎:
+## I love building products and sharing knowledge. Want to get in touch 🌎:
 <ul>
   <li><a href="mailto: er.hardiksharma05@gmail.com" style="text-decoration:none" target="_blank">Shoot me an Email<a/></li>
   <li><a href="https://www.linkedin.com/in/hardik-sharma/" style="text-decoration:none" target="_blank">Add me on LinkedIn</a></li>
