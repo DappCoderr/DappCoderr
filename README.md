@@ -1,9 +1,9 @@
 ## Hi, I'm Hardik 👋🏾 😎 
 ## A Blockchain & Frontend Developer 💻 
 
-🔭 I'm currently learning and building on Flow Blockchian, it's a new blockchain built to power next-gen games, apps and the developers who build them.
+🔭 I'm currently working, learning and building some cool stuff on Blockchian (Ethereum, BSC and Flow).
 
-🌱 I’m also learning about consensus algorithm to implement PoW, PoS and more about Defi!
+🌱 I'm a person, who love to participate in hackathon and bootcam, intreacting with new people and revolutionies ideas 💡. 
 
 👨‍💻 I love Reactjs, and I'm also learning Vue!
 
