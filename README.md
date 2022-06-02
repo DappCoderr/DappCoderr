@@ -1,7 +1,7 @@
 ## Hi,👋🏾 😎 
-## I'm Blockchain & Frontend Developer 💻 
+## Smart Contract Developer 💻 
 
-🔭 building some cool stuff on Blockchian (Ethereum, BSC and Flow).
+🔭 Building some cool stuff on Blockchian (Ethereum, BSC and Flow).
 
 🌱 I'm a person, who love to participate in hackathon and bootcam, intreacting with new people and revolutionies ideas 💡. 
 
