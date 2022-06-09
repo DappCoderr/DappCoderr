@@ -64,6 +64,11 @@ src="https://img.shields.io/twitter/follow/dappcoder_?logo=twitter&style=for-the
 
 <a href="https://github.com/dappcoder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dappcoder&langs_count=10&title_color=facc15&text_color=6366f1&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DappCoderr/count.svg" />
+</p>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/dappcoder"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
