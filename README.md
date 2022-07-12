@@ -4,16 +4,13 @@ Hi,👋🏾 😎
 Smart Contract Developer 💻
 ---------------------------
 
-🔭 Building some cool stuff on Blockchain (Ethereum, Polygon, BSC and Flow). 
+🔭 Building some cool stuff on Blockchain (Ethereum, Polygon and Flow). 
 
-🌱 I'm a person, who love to participate in hackathon and boot camp, interact with new people and revolutionizes ideas 💡.
+🌱 I'm a person, who love to interact with new people and revolutionizes ideas 💡.
 <br></br>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [dappcoderr@gmail.com](mailto:dappcoderr@gmail.com)
-* 🚀  I'm currently working on [Non Fungible Addresses](http://twitter.com/nfaddress)
-* 🧠  I'm learning ZK Proofs
-* 🤝  I'm open to collaborating on NFTs, Defi, Marketplace
+* ✉️  You can contact me at [er.hardiksharma05@gmail.com](mailto:er.hardiksharma05@gmail.com)
+* 🚀  Founder of [Non Fungible Addresses](http://twitter.com/nfaddress)
 * ⚡  I'm secretly Spiderman.....but don't tell anyone!
 
 <a href="https://www.twitter.com/dappcoder_" target="_blank" rel="noreferrer"><img
