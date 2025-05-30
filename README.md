@@ -1,11 +1,11 @@
 gm, I'm dc👋🏾
 
-Smart Contract Engineer 💻
+Software Engineer 💻
 ===================
-- I work with Solidity, Cadence, Move, C++, JavaScript. 
-- Tools & Libraries I use: Foundry, Hardhat, Chainlink, IPFS, Remix IDE, Openzepplin, Graph.
+- I work with Solidity, Cadence, Move, C++, JS and MERN stack. 
+- Tools & Libraries: Foundry, Hardhat, Chainlink, IPFS, Remix IDE, Openzepplin, Graph.
 
 
-I'm always open to exciting opportunities and building exciting blockchain projects!!
+I'm always open to exciting opportunities and building exciting projects!!
 
 Want to chat? Feel free to reach out me on <a href="https://x.com/dappcoder_">X</a>
