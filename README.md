@@ -4,8 +4,6 @@
 <h2>About Me</h2>
 I'm backend engineer who enjoys building scalable systems and on-chain products. I love working where Web2 meets Web3 — combining solid backend architectures with decentralized ideas. Always open to new projects, collaborations, and learning something exciting along the way.
 
-I’m always open to **collaborations, new opportunities**, and **building exciting projects**
-
 <h2>Languages & Frameworks</h2>
 
 > C++ • Node.js • Express.js • JavaScript  
