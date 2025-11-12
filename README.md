@@ -2,8 +2,7 @@
 <h3 align="center">Software Developer Engineer</h3>
 
 <h2>About Me</h2>
-I'm a passionate Backend Engineer who loves building scalable backend systems and on-chain products.  
-I explore the intersection of Web2 and Web3, combining reliable backend architectures with decentralized innovation.
+I'm backend engineer who enjoys building scalable systems and on-chain products. I love working where Web2 meets Web3 — combining solid backend architectures with decentralized ideas. Always open to new projects, collaborations, and learning something exciting along the way.
 
 I’m always open to **collaborations, new opportunities**, and **building exciting projects**
 
