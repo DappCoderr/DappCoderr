@@ -6,7 +6,7 @@ I'm backend engineer who enjoys building scalable systems and on-chain products.
 
 <h2>Languages & Frameworks</h2>
 
-> C++ • JavaScript • Solidity • Cadence
+> C++ • JavaScript • Solidity • Cadence  
 > NodeJS • ExpressJs • MongoDB • Mongoose • Redis • REST APIs • WebSockets • Foundry • Hardhat • OpenZeppelin • The Graph
 
 <h2>Core Strengths</h2>
