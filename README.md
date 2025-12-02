@@ -1,8 +1,8 @@
 <h3 align="center">Hi, I'm Haardik (dc) 👋🏾</h3>
-<h3 align="center">Software Developer Engineer</h3>
+<h3 align="center">Software Developer Engineer (web2 + web3)</h3>
 
 <h2>About Me</h2>
-I'm backend engineer who enjoys building scalable systems and on-chain products. I love working where Web2 meets Web3 — combining solid backend architectures with decentralized ideas. Always open to new projects, collaborations, and learning something exciting along the way.
+I enjoys building scalable systems and on-chain products. I love working where Web2 meets Web3 — combining solid backend architectures with decentralized ideas. Always open to new projects, collaborations, and learning something exciting along the way.
 
 <h2>Languages & Frameworks</h2>
 
