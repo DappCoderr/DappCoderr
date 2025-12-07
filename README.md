@@ -1,14 +1,15 @@
 <h3 align="center">Hi, I'm Haardik (dc) 👋🏾</h3>
-<h3 align="center">Software Developer Engineer (web2 + web3)</h3>
+<h3 align="center">Software Developer Engineer (Backend)</h3>
 
 <h2>About Me</h2>
 I enjoys building scalable systems and on-chain products. I love working where Web2 meets Web3 — combining solid backend architectures with decentralized ideas. Always open to new projects, collaborations, and learning something exciting along the way.
 
 <h2>Languages & Frameworks</h2>
 
-> C++ • JavaScript • TypeScript • Node  
-> ExpressJs • MongoDB • Mongoose • REST APIs • WebSockets • Redis  
-> Solidity • Cadence • Foundry • Hardhat • OpenZeppelin • The Graph  
+> C++ • JavaScript.
+> NodeJS • Express • REST APIs • WebSockets.
+> MongoDB • Mongoose (ODM) • Redis. Nodemon • Winston. 
+> Solidity • Cadence • Hardhat • OpenZeppelin • The Graph  
 
 <h2>Core Strengths</h2>
 
