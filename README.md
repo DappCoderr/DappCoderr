@@ -6,10 +6,10 @@ I enjoys building scalable systems and on-chain products. I love working where W
 
 <h2>Languages & Frameworks</h2>
 
-> C++ • JavaScript.
-> NodeJS • Express • REST APIs • WebSockets.
-> MongoDB • Mongoose (ODM) • Redis. Nodemon • Winston. 
-> Solidity • Cadence • Hardhat • OpenZeppelin • The Graph  
+> Programming: C++ • JavaScript.  
+> Backend: NodeJS • Express • REST APIs • WebSockets.  
+> Database & Tools: MongoDB • Mongoose (ODM) • Redis. Nodemon • Winston.  
+> Blockchain: Solidity • Cadence • Hardhat • OpenZeppelin • The Graph.  
 
 <h2>Core Strengths</h2>
 
